@@ -1,0 +1,28 @@
+body{
+
+	background: teal;
+	color: yellow;
+	padding: 16px;
+
+   	
+}
+
+h1, h2, h3, p {
+
+	 color: yellow;
+}
+
+input {
+	margin-bottom: 15px;
+	
+}
+
+
+
+input:invalid {
+    background-color: #FFAAAA;
+}
+
+input:valid {
+    background-color: #AAFFAA;
+}
